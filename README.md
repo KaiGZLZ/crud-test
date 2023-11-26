@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-The projec can be visualized in the next link [###](https://github.com/KaiGZLZ/crud-test).
+The projec can be visualized in the next link [https://crud-test-beta.vercel.app/](https://crud-test-beta.vercel.app/).
 
 ## Available Scripts for Development
 
